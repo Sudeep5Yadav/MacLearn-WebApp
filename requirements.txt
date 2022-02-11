@@ -22,7 +22,7 @@ MarkupSafe==1.0
 numpy==1.16.1
 opencv-python==4.0.0.21
 pipenv==2018.11.26
-protobuf==3.6.1
+protobuf==3.15.0
 regex==2018.8.29
 requests==2.20.0
 six==1.12.0
